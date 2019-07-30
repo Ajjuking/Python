@@ -1,3 +1,4 @@
+#Example: python Remote_cmd.py uptime
 #!/usr/bin/env python
 
 import sys, paramiko, csv
